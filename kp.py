@@ -1,5 +1,5 @@
 import os
 import statistics
+print("Hi mom!")
 print(0)
-list = []
 print("This should work")
